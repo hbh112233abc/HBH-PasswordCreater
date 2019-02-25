@@ -1,0 +1,29 @@
+[
+    {
+        "keys":[
+            "ctrl+1"
+        ],
+        "args":{
+            "safe_level":1
+        },
+        "command":"create_password"
+    },
+    {
+        "keys":[
+            "ctrl+2"
+        ],
+        "args":{
+            "safe_level":2
+        },
+        "command":"create_password"
+    },
+    {
+        "keys":[
+            "ctrl+3"
+        ],
+        "args":{
+            "safe_level":3
+        },
+        "command":"create_password"
+    }
+]

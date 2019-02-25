@@ -1,0 +1,29 @@
+[
+    { "caption": "-", "id": "file" },
+    {
+        "caption": "HBH-PasswordCreater",
+        "children": [
+            {
+                "caption":"pwd[0-9]",
+                "command":"create_password",
+                "args":{
+                    "safe_level":1
+                }
+            },
+            {
+                "caption":"pwd[0-9,a-zA-Z]",
+                "command":"create_password",
+                "args":{
+                    "safe_level":2
+                }
+            },
+            {
+                "caption":"pwd[0-9,a-zA-Z,Symbol]",
+                "command":"create_password",
+                "args":{
+                    "safe_level":3
+                }
+            }
+        ]
+    }
+]
