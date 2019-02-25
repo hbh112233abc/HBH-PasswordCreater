@@ -1,7 +1,7 @@
 [
     {
         "keys":[
-            "ctrl+1"
+            "ctrl+alt+1"
         ],
         "args":{
             "safe_level":1
@@ -10,7 +10,7 @@
     },
     {
         "keys":[
-            "ctrl+2"
+            "ctrl+alt+2"
         ],
         "args":{
             "safe_level":2
@@ -19,7 +19,7 @@
     },
     {
         "keys":[
-            "ctrl+3"
+            "ctrl+alt+3"
         ],
         "args":{
             "safe_level":3
